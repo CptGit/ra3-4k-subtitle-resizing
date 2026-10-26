@@ -1,0 +1,16 @@
+/build/
+/.venv/
+__pycache__/
+*.py[cod]
+*.big
+*.ttf
+*.ttc
+*.otf
+*.manifest
+*.bin
+*.relo
+*.imp
+*.exe
+*.dll
+*.zip
+*.log

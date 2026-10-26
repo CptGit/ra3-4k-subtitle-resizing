@@ -1,0 +1,5 @@
+set-exe Data\RA3_1.12.game
+add-big Data\SubtitlePreload_1.0.big
+add-big Data\Maps12.big
+add-big Data\Core12.big
+add-config RA3_english_1.11.SkuDef
